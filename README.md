@@ -1,6 +1,6 @@
 # FIRST REACT APP
 
-Just a simple React aplication to start learning the framework: https://richardbmk.github.io/reac-tic-tac-toe/
+Just a simple React aplication to start learning the framework: https://richardbmk.github.io/tic-tac-toe/
 
 This is some source I use:
 - [React Oficial Docs](https://reactjs.org/tutorial/tutorial.html)
